@@ -1,0 +1,28 @@
+body{
+    background-color: #ee8686;
+}
+.media_link{
+    background-color: #ee2727;
+    border: 2px solid #000;
+}
+
+.media_link:hover{
+    background-color: #cc0000;
+    border: 2px solid #000;
+}
+
+h1{
+    font-size: 2.5rem;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+    font-style: bold;
+}
+
+h4{
+    font-size: 2rem;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+    font-style: bold;
+}
