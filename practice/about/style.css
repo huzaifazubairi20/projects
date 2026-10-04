@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding-top: 30px;
+    font-family: "Baloo Tamma 2", sans-serif;
+    background : linear-gradient(to right, #f7caca, rgb(229, 255, 112) );
+}
+
+.navigation{
+    background: #0400df;
+    border-top: 3px solid #ffb407;
+    padding: 10px 40px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    padding-bottom: 10px !important;
+}
+
+.brand-logo{
+    height: 24px;
+    width: 24px;
+}
+
+.navigation-link{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.navigation-link:hover{
+    color: #f2a900;
+}
+
+#card{
+    background: #fff;
+    margin: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    border: 5px solid #ffb407;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+.row{
+    justify-content: center;
+}
+
+.title{
+    color: #0400df;
+}
+
+.description{
+    color: #f2a900;
+    font-weight: 600;
+    font-size: 18px;
+}
